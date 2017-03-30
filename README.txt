@@ -1,7 +1,7 @@
 CSOF5101 - Conceptos Avanzados de Ingeniería de Software
 Personal Software Process (PSP) for Engineers
 Johann De Jesus Olaya Herrera
-Fecha : 2017-03-18
+Fecha : 2017-03-29
 
 Instrucciones para obtener repositorio desde GitHub donde se encuentran los artefactos (código, formas, evidencias, etc.) :
 1. En el directorio en que desea descargar el proyecto ejecute el comando : git clone https://github.com/johannolayaherrera/Ecos_Tarea4.git
